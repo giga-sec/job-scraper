@@ -1,4 +1,7 @@
 streamlit
 plotly
-pip install pywidgets
-pip install streamlit-plotly-events
+pywidgets
+pandas
+plotly
+plotly-express
+openai
