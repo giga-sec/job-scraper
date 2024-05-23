@@ -1,0 +1,4 @@
+streamlit
+plotly
+pip install pywidgets
+pip install streamlit-plotly-events

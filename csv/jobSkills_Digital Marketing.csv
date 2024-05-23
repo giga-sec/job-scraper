@@ -1,0 +1,51 @@
+"jobSkills","count"
+"Email Marketing",45
+"Google Analytics",33
+"Content Creation",29
+"SEM",17
+"Keyword Research",16
+"Copywriting",16
+"PPC",13
+"Digital Advertising",8
+"Search Console",7
+"Web Analytics",6
+"Google Tag Manager",3
+"AdWords",3
+"A/B Testing",2
+"Google AdWords",2
+"Influencer Marketing",2
+"Affiliate Marketing",2
+"Conversion Rate Optimization",1
+"SMM",1
+"""index"": 0",0
+"""logprobs"": null",0
+"""",0
+"""finish_reason"": ""length""
+    }
+  ]",0
+"Google AdSense",0
+"Google My Business",0
+"Webmaster Tools",0
+"""usage"": {
+    ""prompt_tokens"": 69",0
+"""completion_tokens"": 100",0
+"{
+  ""id"": ""cmpl-9Qyy2XaN67tIqrQvUWUJ3xn89NnxL""",0
+"Facebook Ads",0
+"Video Marketing",0
+"YouTube Ads",0
+"LinkedIn Ads",0
+"Twitter Ads",0
+"Instagram Ads",0
+"""object"": ""text_completion""",0
+"Bing Ads",0
+"Landing Pages",0
+"Social Media Management",0
+"""choices"": [
+    {
+      ""text"": ""\\nSEO",0
+"""model"": ""gpt-3.5-turbo-instruct""",0
+"""created"": 1716217914",0
+"""total_tokens"": 169
+  }
+}",0
