@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.io as pio
 import nltk
 import os
+import subprocess
 
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
