@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.io as pio
 import openai
 import nltk
+import os
 
 nltk_data_dir = "./resources/nltk_data_dir/"
 if not os.path.exists(nltk_data_dir):
