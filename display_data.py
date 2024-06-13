@@ -4,6 +4,10 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 import openai
+import nltk
+
+nltk.download('wordnet')
+
 
 pio.templates.default = "plotly_dark"  # You can choose from "plotly", "plotly_white", "ggplot2", "seaborn", etc.
 
