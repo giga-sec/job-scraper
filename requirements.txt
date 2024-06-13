@@ -3,3 +3,4 @@ plotly
 pandas
 plotly
 openai
+nltk
